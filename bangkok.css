@@ -1,0 +1,36 @@
+.background{
+background-image: url("https://c4.wallpaperflare.com/wallpaper/725/1022/497/pink-blue-blur-gradation-wallpaper-thumb.jpg");
+width: 100vw;
+height: 100vw;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-top: 5%;
+}
+.center{
+    text-align: center;
+}
+.shadow{
+    margin: auto;
+    border: 8px solid rgda(0,0,0.2);
+    width: 180px;
+    border-radius: 100%;
+    margin-top: 10px;
+}
+.credbox{
+    margin: auto;
+    border: 10px solid rgba(235, 155, 81);
+    border-radius: 7px;
+    width: 40%;
+    padding: 20px;
+}
+.Box{
+    background-color: rgba(235, 155, 81);
+    margin-left: 45%;
+    margin-top: 2%;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
